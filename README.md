@@ -63,7 +63,7 @@ python main.py
 ## 💌 Автор
  
 **Анна Черкасова**
-Системный аналитик · [cherkasovaanna.ru](https://cherkasovaanna.ru)
+[cherkasovaanna.ru](https://cherkasovaanna.ru)
  
 📧 anna@cherkasovaanna.ru
 ✈️ Telegram: [@annac1119](https://t.me/annac1119)
